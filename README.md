@@ -1,5 +1,6 @@
 ![WhatsApp Image 2024-07-15 at 12 09 42 PM](https://github.com/user-attachments/assets/312ae973-78de-457b-b5e2-4c9e4e0961ac)
-The image depicts an operating room where various elements are labeled using machine learning and computer vision. These labels include “staff,” “hospital bed,” “surgical light,” and “bedside monitor.” This system likely aids in monitoring patients remotely within a teleICU setup.
+
+<p>The image depicts an operating room where various elements are labeled using machine learning and computer vision. These labels include “staff,” “hospital bed,” “surgical light,” and “bedside monitor.” This system likely aids in monitoring patients remotely within a teleICU setup.<p>
 
 
 <br>
